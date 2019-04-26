@@ -70,7 +70,7 @@ int main() {
 
 是不是好看了许多？
 
----
+<br/>
 
 一旦我们掌握了这个技巧，就可以随易变换我们的这个心形的宽和高啦。比如，我让这个心形，宽和高更多一些，同时再稍微扁一点儿。y值的步长为0.06，x值的步长为0.025，就是这样的：
 
@@ -78,13 +78,15 @@ int main() {
 
 是不是很酷？
 
+<br/>
+
 当然啦，如果我们填入不同的字符，可能有不同的视觉效果哦~
 
 ![heart-res-4](heart-res-4.png)
 
 我们也很容易做出类似的镂空效果哦~
 
----
+<br/>
 
 不过，你以为心形曲线只有一个方程可以描述吗？在网上多做做功课，发现相关的方程多得很：）比如这个：
 
@@ -122,7 +124,7 @@ int main() {
 
 愿天下有情人终成眷属，大家加油！
 
-
+<br/>
 
 本篇文章的所有代码可以参见这个github repo: [https://github.com/liuyubobobo/heart-curve-cplusplus](https://github.com/liuyubobobo/heart-curve-cplusplus)
 
