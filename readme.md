@@ -8,6 +8,8 @@
 
 关于转载，暂时仅限于公众号正规转载，请直接在我的公众号《是不是很酷》中向我申请转载。
 
+感谢 [**@StdioA**](https://github.com/StdioA) 同学为我的文章创建了feed流，相应的开源项目可以参考这里：[https://github.com/StdioA/bobobo-feed](https://github.com/StdioA/bobobo-feed) 如果还使用RSS的同学不要错过：）
+
 ![qrcode](qrcode.png)
 
 其他联系方式：
