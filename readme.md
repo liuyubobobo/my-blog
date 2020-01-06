@@ -8,8 +8,6 @@
 
 关于转载，暂时仅限于公众号正规转载，请直接在我的公众号《是不是很酷》中向我申请转载。
 
-感谢 [**@StdioA**](https://github.com/StdioA) 同学为我的文章创建了feed流，相应的开源项目可以参考这里：[https://github.com/StdioA/bobobo-feed](https://github.com/StdioA/bobobo-feed) 如果还使用RSS的同学不要错过：）
-
 ![qrcode](qrcode_banner.png)
 
 其他联系方式：
@@ -21,6 +19,14 @@
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
 **知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
+
+<br/>
+
+## 其他说明
+
+1. 感谢 [**@StdioA**](https://github.com/StdioA) 同学为我的文章创建了feed流，相应的开源项目可以参考这里：[https://github.com/StdioA/bobobo-feed](https://github.com/StdioA/bobobo-feed) 如果还使用RSS的同学不要错过：）
+
+2. 在【是不是很酷】这个公众号下，有一个子栏目，叫**【是不是很酷】开源分享**，分享我在网上看到的一些优秀的开源资料。以英文资料为主。我为这个子栏目专门建立了一个代码仓，整理这些资料。传送门：[**https://github.com/liuyubobobo/cool-open-sharings**](https://github.com/liuyubobobo/cool-open-sharings)
 
 <br/>
 
